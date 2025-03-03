@@ -31,8 +31,8 @@
 				</nav>
 				<footer>
 					<ul class="icons">
-						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="https://github.com/scottc-bio" class="icon brands fa-github"><span class="label" target="_blank">Github</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope" onclick="copyEmail()"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
 			</section>
@@ -480,6 +480,17 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+		<!-- Custom Script for Copying Email -->
+			<script>
+			function copyEmail() {
+   				const email = "conorscott2204@gmail.com"; // Replace with your actual email
+    				navigator.clipboard.writeText(email).then(() => {
+        				alert("Email copied to clipboard!");
+    				}).catch(err => {
+        				console.error("Failed to copy email: ", err);
+    				});
+			}
+			</script>
 
 	</body>
 </html>
