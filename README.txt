@@ -10,7 +10,7 @@ You can access everything directly on my website:
 Here are some of the topics covered:
 - **R Markdown Reproducibility**: A guide to some basics of R markdown for scientific reports.
 - **R Markdown to Word**: Some tips on using R makrdown to output reports to Microsoft Word.
-- **Metabarcoding Data Processing**: Processing amplicon metabarcoding data.
+- **Metabarcoding Data Processing**: Processing amplicon and shotgun metabarcoding data.
 - **Metabarcoding Data Preparation**: Cleaning, filtering, and rarefying to prepare metabarcoding data for community analysis.
 - **Metabarcoding Community Analysis in R**: Basics for community analysis of metabarcoding data in R.
 - And more in the future!
