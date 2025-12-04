@@ -5,6 +5,7 @@ Welcome to my collection of bioinformatics guides and tutorials! This repository
 ## 🌐 Website
 You can access everything directly on my website:  
 [https://scottc-bio.github.io](https://scottc-bio.github.io)
+I also have a repository for my wet lab protocols [here](https://scottc-bio.github.io/CJRS-protocols/), before and after publishing on my [protocol.io page](https://www.protocols.io/workspaces/cjr_protocols)
 
 ## 📚 Guides Available
 Here are some of the topics covered:
@@ -50,3 +51,4 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
