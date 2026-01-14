@@ -9,12 +9,10 @@ I also have a repository for my wet lab protocols [here](https://scottc-bio.gith
 
 ## 📚 Guides Available
 Here are some of the topics covered:
-- **R Markdown Reproducibility**: A guide to some basics of R markdown for scientific reports.
-- **R Markdown to Word**: Some tips on using R makrdown to output reports to Microsoft Word.
 - **Metabarcoding Data Processing**: Processing amplicon and shotgun metabarcoding data.
 - **Metabarcoding Data Preparation**: Cleaning, filtering, and rarefying to prepare metabarcoding data for community analysis.
 - **Metabarcoding Community Analysis in R**: Basics for community analysis of metabarcoding data in R.
-- And more in the future!
+- **Bioinformatic Tools**: Command line bioinformatic tools used in metagenomic data exploration and protein sequence investigation.
 
 ## 🔧 Repository Structure
 This repository contains:
@@ -51,4 +49,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
 
